@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Xcrypto-ReactJS/static/js/main.cffe5ffa.js",
+    "static/media/btc.png": "/Xcrypto-ReactJS/static/media/btc.04101b0b163c035fa57e.png",
+    "static/media/githubimg.jpg": "/Xcrypto-ReactJS/static/media/githubimg.b5bd77200116e528eb99.jpg",
+    "index.html": "/Xcrypto-ReactJS/index.html",
+    "main.cffe5ffa.js.map": "/Xcrypto-ReactJS/static/js/main.cffe5ffa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cffe5ffa.js"
+  ]
+}
